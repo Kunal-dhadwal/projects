@@ -1,0 +1,19 @@
+{
+  "name": "tecbrain",
+  "version": "1.0.0",
+  "description": "Making Api's For Techbrains in nodejs+MySql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Kunal-dhadwal/projects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kunal-dhadwal/projects/issues"
+  },
+  "homepage": "https://github.com/Kunal-dhadwal/projects#readme"
+}
